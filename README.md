@@ -6,5 +6,8 @@ Tired of seeing buffers in the REPL?  Me too... `term-pipe` relies on
 into process.stdout.
 
 ```javascript
-tp = require('term-pipe');
+termp = require('term-pipe');
+
+// of course, the idea is to pipe into termp, but you get the picture...
+termp.push(new Buffer("It's a string!"));
 ```
