@@ -24,5 +24,6 @@
   },
   "homepage": "https://github.com/ninegrid/term-pipe",
   "dependencies": {
+    "stringsplz": "^0.1.0"
   }
 }
