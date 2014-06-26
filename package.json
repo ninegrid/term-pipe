@@ -1,6 +1,6 @@
 {
   "name": "term-pipe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "makes piping to process.stdout readable by humans aren't robots",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ninegrid/term-pipe",
   "dependencies": {
-    "stringsplz": "^0.1.0"
+    "stringsplz": "^0.1.1"
   }
 }
